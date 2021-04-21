@@ -1,0 +1,49 @@
+{
+  "foods": [
+    {
+      "url": "/images/gettyimages-170431074-a603c47.webp",
+      "name": "Biltong At Droewors",
+      "desc": "Ang dry curing ay isang pamamaraan na ginamit upang mapanatili ang karne ng mga katutubong tribo ng South Africa bago pa maimbento ang mga fridges. Karaniwan na gawa sa karne ng baka o laro, tulad ng springbok, biltong (isang manipis na hiniwang, naka-tuyo na karne) at mga droewor (isang naka-air na sausage) ay tradisyonal na kinakain bilang meryenda. Ang karne ay pinagaling sa isang timpla ng suka, asin, asukal at pampalasa tulad ng kulantro at paminta, pagkatapos ay ibitay hanggang matuyo. Ang natapos na produkto ay pinahahalagahan ng mga mahilig sa kalusugan para sa mataas na protina at mababang nilalaman ng taba. Ngayong mga araw na ito, ang mga tagagawa ng biltong at droewors ay madalas na nagdaragdag ng mga pampalasa tulad ng chilli o bawang sa karne at gumagamit ng iba`t ibang mga karne, tulad ng ostrich at wild boar."
+    },
+    {
+      "url": "/images/boewars-578935f.webp",
+      "name": "Boerewors",
+      "desc": "Ito ay isang tradisyonal na South Africa sausage na gawa sa karne ng baka, halo-halong alinman sa baboy o tupa at isang halo ng pampalasa. Ang mga boerewor ay ayon sa kaugalian na hinahain sa isang nakapulupot na hugis, katulad ng sausage ng Cumberland at luto sa isang braai (barbecue). Ang salitang boerewors ay nagmula sa mga Afrikaans at salitang Dutch na boer (magsasaka) at wors (sausage)."
+    },
+    {
+      "url": "/images/3.webp",
+      "name": "Cape Malay curry",
+      "desc": "Noong ika-17 siglo, ang Dutch at French ay lumapag at manirahan sa Cape Town, nagdadala ng mga alipin mula sa Indonesia, India at Malaysia, kasama ang kanilang mga pampalasa at tradisyonal na pamamaraan sa pagluluto. Kapag sinamahan ng lokal na ani, ang mga mabango na pampalasa tulad ng kanela, safron, turmerik at chilli ay lumikha ng mga mabangong kari at nilagang, na patok pa rin sa lugar ngayon."
+    },
+    {
+      "url": "/images/4.webp",
+      "name": "Malva pudding",
+      "desc": "Isang import na Dutch, ang malva pudding ay isang matamis at malagkit na lutong sponge pudding na gawa sa apricot jam at hinatid na smothered sa isang hot cream sauce. Ito ang sagot sa South Africa sa British sticky tafé pudding, na hinahain sa maraming restawran ngunit higit sa lahat inihurnong sa bahay para sa tanghalian noong Linggo."
+    },
+    {
+      "url": "/images/5.webp",
+      "name": "Chakalaka & pap",
+      "desc": "Ang Chakalaka at pap ay mga pangunahing tungkulin sa bawat hapag-kainan sa South Africa. Ang Chakalaka ay isang ulam na gulay na gawa sa mga sibuyas, kamatis, peppers, karot, beans at pampalasa, at madalas na hinahain ng malamig. Ang Pap, na nangangahulugang 'sinigang', ay katulad ng mga American grits at isang starchy dish na gawa sa puting mais na mais. Ang chakalaka at pap ay madalas na hinahatid na magkasama, kasama ang braaied (barbecued) na karne, tinapay, salad at nilaga."
+    },
+    {
+      "url": "/images/6.webp",
+      "name": "Braai/Shisa nyama",
+      "desc": "Para sa isang tunay na panlasa ng South Africa ang isang tunay na braai o shisa nyama ('sunugin ang karne' sa Zulu) ay isang karanasan sa pagkain na hindi napalampas. Ang Braais ay nagmula sa mga bayan ng Johannesburg, kasama ang mga butchers na nag-set up ng mga barbecue sa harap ng kanilang mga tindahan sa katapusan ng linggo upang mag-ihaw ng kanilang karne at ibenta ito sa kalye. Ngayon, ang mga lokal na pamayanan ay nagtitipon sa mga braais sa katapusan ng linggo upang magbahagi ng pagkain. Sumakay kasama upang ibabad ang buhay na buhay na kapaligiran, makinig ng musika at pumili mula sa inaalok na karne, karaniwang binubuo ng karne ng baka, manok, baboy, kordero at vors (mga sausage) - hindi ito isang paglalakbay para sa mga vegetarian!"
+    },
+    {
+      "url": "/images/7.webp",
+      "name": "Bunny chow",
+      "desc": "Ang pagkain sa kalye ng Durban na ito ay naging tanyag sa buong Timog Africa at nagsisimula na ngayong maabot ang aming mga merkado ng pagkain pabalik sa London. Ang mga tinapay na tinapay na may laman, pinalamanan ng maanghang na curry ay orihinal na nilikha ng imigranteng komunidad ng India sa lugar ng Natal ng Durban at inihatid sa mga manggagawa para sa tanghalian. Subukan ang mga manok, baboy o mga vegetarian variety na naglalaman ng mga lentil at beans."
+    },
+    {
+      "url": "/images/8.webp",
+      "name": "Bobotie",
+      "desc": "Ang isa pang ulam na naisip na dinala sa South Africa ng mga naninirahan sa Asia, ang bobotie ay pambansang ulam ng bansa at niluto sa maraming mga bahay at restawran. Ang inihaw na karne ay binuhusan ng mga pampalasa, karaniwang curry powder, herbs at pinatuyong prutas, pagkatapos ay pinunan ng pinaghalong itlog at gatas at inihurnong hanggang sa maitakda."
+    },
+    {
+      "url": "/images/9.webp",
+      "name": "Melktert",
+      "desc": "Katulad ng British custard tart o Portuguese pasteis de nata, ang melktert ay binubuo ng isang pastry case na puno ng gatas, itlog at asukal, na karaniwang pinapalapitan ng harina. Ang tapos na tart ay ayon sa kaugalian na tinabunan ng kanela. Ang isang tunay na pagkaing kumportable sa South Africa, hinahain ito bilang isang dessert, at magagamit din sa maraming mga panaderya."
+    }
+  ]
+}
